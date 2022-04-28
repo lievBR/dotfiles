@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = salles.w@hotmail.com
+	name = Walace Salles
